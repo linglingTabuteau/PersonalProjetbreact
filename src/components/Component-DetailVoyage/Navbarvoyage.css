@@ -1,0 +1,27 @@
+.pad {
+    background-color: #b23f36;
+    margin-top: 0px;
+   
+}
+
+.nav {
+    padding : 0 !important; 
+}
+
+.center {
+    margin:auto; 
+    margin-right: 50px; 
+   
+}
+
+.brand {
+    font-weight: bold;
+}
+
+.price {
+    font-size: 30px;
+}
+
+.date {
+    font-style: italic;
+}

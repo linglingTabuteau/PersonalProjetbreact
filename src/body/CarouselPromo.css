@@ -1,0 +1,7 @@
+.carousel-caption h3{
+    border:3px white solid;
+    border-radius: 10px;
+    background-color: rgba(165, 161, 161, 0.897);
+    width:80%;
+    margin: auto;
+}
